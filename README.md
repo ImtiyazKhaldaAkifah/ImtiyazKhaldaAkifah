@@ -5,7 +5,7 @@
 
 <!-- Teks Animasi Mengetik (Font Quicksand, Warna Biru Soft) -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Quicksand&size=24&pause=1000&color=4A90E2&center=true&vCenter=true&width=500&lines=Halo!+Aku+Imtiyaz+%F0%9F%8C%B8;Tech+Enthusiast+%F0%9F%92%99;Mahasiswa+TI+%26+Staff+LPTSI+%F0%9F%8E%93;Suka+Ngoding+Flutter+%26+Dart+%F0%9F%93%B1" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com/?font=Quicksand&size=24&pause=1000&color=4A90E2&center=true&vCenter=true&width=500&lines=Halo!+Aku+Imtiyaz+%F0%9F%8C%B8;Tech+Enthusiast+%F0%9F%92%99;Mahasiswa+TI+%26+Staff+LPTSI+%F0%9F%8E%93" alt="Typing SVG"/>
 </div>
 
 <br/>
