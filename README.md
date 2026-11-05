@@ -1,11 +1,11 @@
-<!-- Banner Navy Blue -->
+<!-- Banner Soft Pastel (Biru Muda ke Lavender) -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=000080&height=200&section=header&text=Hai,%20Aku%20Imtiyaz!&fontSize=45&fontColor=ffffff" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:A2D2FF,100:E6E6FA&height=200&section=header&text=Hai,%20Aku%20Imtiyaz!&fontSize=45&fontColor=003049" width="100%"/>
 </div>
 
-<!-- Teks Animasi Mengetik (Warna Navy) -->
+<!-- Teks Animasi Mengetik (Font Quicksand, Warna Biru Soft) -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=000080&center=true&vCenter=true&width=500&lines=Tech+Enthusiast+%F0%9F%92%96;Mahasiswa+TI+%26+Staff+LPTSI+UNIDA+Gontor" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com/?font=Quicksand&size=24&pause=1000&color=4A90E2&center=true&vCenter=true&width=500&lines=Halo!+Aku+Imtiyaz+%F0%9F%8C%B8;Tech+Enthusiast+%F0%9F%92%99;Mahasiswa+TI+%26+Staff+LPTSI+%F0%9F%8E%93;Suka+Ngoding+Flutter+%26+Dart+%F0%9F%93%B1" alt="Typing SVG"/>
 </div>
 
 <br/>
@@ -27,11 +27,11 @@
 
 <br/>
 
-<!-- Statistik GitHub (Ditambah cache_bust agar auto-update) -->
+<!-- Statistik GitHub (Warna Biru Pastel + Auto Update) -->
 ## 📊 Statistik GitHub
 <div align="center">
-  <img src="https://img.shields.io/github/followers/ImtiyazKhaldaAkifah?label=Followers&style=for-the-badge&color=000080&cache_bust=1" />
-  <img src="https://img.shields.io/github/stars/ImtiyazKhaldaAkifah?label=Stars&style=for-the-badge&color=1E3A8A&cache_bust=1" />
+  <img src="https://img.shields.io/github/followers/ImtiyazKhaldaAkifah?label=Followers&style=for-the-badge&color=A2D2FF&cache_bust=1" />
+  <img src="https://img.shields.io/github/stars/ImtiyazKhaldaAkifah?label=Stars&style=for-the-badge&color=BDE0FE&cache_bust=1" />
 </div>
 
 <br/>
@@ -39,9 +39,9 @@
 <!-- Sosial Media -->
 ## 🔗 Terhubung dengan Saya
 <div align="center">
-  <!-- Tombol GitHub Abu-abu -->
+  <!-- Tombol GitHub warna Abu Terang -->
   <a href="https://github.com/ImtiyazKhaldaAkifah">
-    <img src="https://img.shields.io/badge/GitHub-555555?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-888888?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   
   <a href="https://www.instagram.com/imtiyazakfh/">
@@ -60,7 +60,7 @@
 
 <br/>
 
-<!-- PENGHITUNG PENGUNJUNG (PROFILE VIEWS) Warna Navy -->
+<!-- PENGHITUNG PENGUNJUNG (PROFILE VIEWS) Warna Biru Soft -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ImtiyazKhaldaAkifah&label=Profile%20views&color=000080&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=ImtiyazKhaldaAkifah&label=Profile%20views&color=A2D2FF&style=flat" alt="Profile views" />
 </div>
