@@ -5,7 +5,7 @@
 
 <!-- Teks Animasi Mengetik -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=Tech+Enthusiast+%F0%9F%92%96;Mahasiswa+TI+%26+AS+LPTSI+UNIDA+Gontor;Suka+Ngoding+Flutter+%26+Dart" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=Tech+Enthusiast+%F0%9F%92%96;Mahasiswa+TI+%26+AS+LPTSI+UNIDA+Gontor" alt="Typing SVG"/>
 </div>
 
 <br/>
