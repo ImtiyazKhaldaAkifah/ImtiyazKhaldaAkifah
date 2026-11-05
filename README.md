@@ -1,17 +1,12 @@
 <!-- Banner Bergelombang Gemoy (Pink ke Lavender) -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFC0CB,100:E6E6FA&height=220&section=header&text=Hai,%20Aku%20Imtiyaz!&fontSize=42&fontColor=FF1493&animation=twinkling&fontAlignY=35&desc=Tech%20Enthusiast%20%7C%20Mobile%20%26%20Web%20Developer&descAlignY=55&descSize=18" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFC0CB,100:E6E6FA&height=220&section=header&text=Hai,%20Aku%20Imtiyaz!&fontSize=42&fontColor=FF1493&animation=twinkling&fontAlignY=35&desc=Tech%20Enthusiast%20%7C%20Mobile%20%26%20Web%20Developer&descAlignY=55&descSize=18&v=10" width="100%"/>
 </div>
 
-<!-- ANIMASI BARU: Kucing Mengetik (Giphy - Dijamin Muncul) -->
-<div align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="120" alt="Typing Cat" />
-</div>
-
-<!-- Teks Animasi Mengetik (Pakai server alternatif) -->
+<!-- Teks Animasi Mengetik (Warna Pink Gemoy) -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&pause=1000&color=FF69B4&center=true&vCenter=true&width=650&lines=Hai,+selamat+datang+di+profil+saya!+✨;Saya+seorang+Tech+Enthusiast+💖;Suka+ngoding+Flutter+%26+Dart+🌸;Ayo+berteman+dan+berkolaborasi!+🚀" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=FF69B4&center=true&vCenter=true&width=650&lines=Hai,+selamat+datang+di+profil+saya!+✨;Saya+seorang+Tech+Enthusiast+💖;Suka+ngoding+Flutter+%26+Dart+🌸;Ayo+berteman+dan+berkolaborasi!+🚀&v=10" alt="Typing SVG"/>
   </a>
 </div>
 
@@ -26,21 +21,19 @@
 
 <br/>
 
-<!-- Tech Stack Ikon (Ini biasanya aman) -->
+<!-- Tech Stack Ikon -->
 ## 🛠️ Tech Stack
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,git,github,vscode,flutter,dart&theme=light" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,git,github,vscode,flutter,dart&theme=light&v=10" />
 </div>
 
 <br/>
 
-<!-- Statistik GitHub (Pakai Badge Statis yang PASTI Muncul, bukan kartu Vercel) -->
+<!-- Kartu Statistik GitHub (Tema Bubblegum Pink) -->
 ## 📊 Statistik GitHub
 <div align="center">
-  <!-- Badge ini dijamin muncul karena pakai Shields.io (server paling stabil) -->
-  <img src="https://img.shields.io/github/followers/ImtiyazKhaldaAkifah?label=Followers&style=for-the-badge&color=FF69B4" />
-  <img src="https://img.shields.io/github/stars/ImtiyazKhaldaAkifah?label=Stars&style=for-the-badge&color=E6E6FA" />
-  <img src="https://img.shields.io/github/last-commit/ImtiyazKhaldaAkifah/Peternakan_Terpadu_Mantingan?label=Last%20Commit&style=for-the-badge&color=FFB6C1" />
+  <img height="160px" src="https://github-readme-stats.shion.dev/api?username=ImtiyazKhaldaAkifah&show_icons=true&theme=bubblegum&hide_border=true&cache_seconds=1800&v=10" />
+  <img height="160px" src="https://github-readme-stats.shion.dev/api/top-langs/?username=ImtiyazKhaldaAkifah&layout=compact&theme=bubblegum&hide_border=true&cache_seconds=1800&v=10" />
 </div>
 
 <br/>
@@ -66,5 +59,5 @@
 
 <!-- Ucapan Terima Kasih / Pengunjung -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ImtiyazKhaldaAkifah&label=Profile%20views&color=FFB6C1&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=ImtiyazKhaldaAkifah&label=Profile%20views&color=FFB6C1&style=flat&v=10" alt="Profile views" />
 </div>
