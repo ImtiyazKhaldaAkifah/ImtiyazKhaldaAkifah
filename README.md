@@ -1,11 +1,11 @@
 <div align="center">
 
 <a href="https://github.com/ImtiyazKhaldaAkifah">
-  <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=700&size=36&duration=3000&pause=100000&color=818CF8&center=true&vCenter=true&width=640&height=70&lines=Imtiyaz+Khalda+Akifah" alt="Imtiyaz Khalda Akifah" />
+  <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=700&size=38&duration=3000&pause=100000&color=818CF8&center=true&vCenter=true&width=700&height=70&lines=Imtiyaz+Khalda+Akifah" alt="Imtiyaz Khalda Akifah" />
 </a>
 
 <a href="https://github.com/ImtiyazKhaldaAkifah">
-  <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=19&duration=3500&pause=1200&color=94A3B8&center=true&vCenter=true&width=600&lines=Mahasiswi+Teknik+Informatika;Web+%26+Android+Developer;Staff+LPTSI+%40+UNIDA+Gontor;Flutter+%C2%B7+Kotlin+%C2%B7+Svelte+%C2%B7+TypeScript;Open+to+internship+%26+collaboration" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=19&duration=3500&pause=1200&color=94A3B8&center=true&vCenter=true&width=620&lines=Mahasiswi+Teknik+Informatika;Web+%26+Android+Developer;Staff+LPTSI+%40+UNIDA+Gontor;Flutter+%C2%B7+Kotlin+%C2%B7+Svelte+%C2%B7+TypeScript;Open+to+internship+%26+collaboration" alt="typing" />
 </a>
 
 <br/><br/>
@@ -26,6 +26,41 @@ Halo, aku **Imtiyaz Khalda Akifah** 🌿
 - 💻 Fokus di **web development** dan **android development**
 - 🌱 Lagi terus belajar dan eksplor teknologi baru
 - 🤝 Terbuka buat **magang**, kolaborasi, dan diskusi
+
+<br/>
+
+## ✨ &nbsp;Highlight
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🔭 Lagi dikerjain**
+Pengembangan aplikasi web dan android untuk kebutuhan kampus & project pribadi.
+
+</td>
+<td width="50%" valign="top">
+
+**🌱 Lagi dipelajari**
+TypeScript, Svelte, dan arsitektur aplikasi Flutter yang lebih rapi.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**💬 Tanya aku soal**
+Flutter, Dart, Kotlin, HTML/CSS, dan MongoDB.
+
+</td>
+<td width="50%" valign="top">
+
+**⚡ Cara kerja**
+Rapi, suka eksplor, dan senang belajar dari proyek nyata.
+
+</td>
+</tr>
+</table>
 
 <br/>
 
@@ -54,31 +89,17 @@ Halo, aku **Imtiyaz Khalda Akifah** 🌿
 <img src="https://img.shields.io/badge/MongoDB-334155?style=for-the-badge&logo=mongodb&logoColor=47A248" />
 <img src="https://img.shields.io/badge/Git-334155?style=for-the-badge&logo=git&logoColor=F05032" />
 <img src="https://img.shields.io/badge/GitHub-334155?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/VS%20Code-334155?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" />
 
 </div>
 
 <br/>
 
-## 📊 &nbsp;Statistik GitHub
+## 📈 &nbsp;Aktivitas kontribusi
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ImtiyazKhaldaAkifah&show_icons=true&hide_border=false&border_radius=16&bg_color=F8FAFC&border_color=E2E8F0&title_color=334155&text_color=64748B&icon_color=6C7AE0&ring_color=6C7AE0" alt="stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImtiyazKhaldaAkifah&layout=compact&hide_border=false&border_radius=16&bg_color=F8FAFC&border_color=E2E8F0&title_color=334155&text_color=64748B" alt="top langs" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=ImtiyazKhaldaAkifah&hide_border=false&border_radius=16&background=F8FAFC&stroke=E2E8F0&ring=6C7AE0&fire=6C7AE0&currStreakNum=334155&currStreakLabel=6C7AE0&sideNums=334155&sideLabels=64748B&dates=94A3B8" alt="streak" />
-
-</div>
-
-<br/>
-
-## 📈 &nbsp;Grafik aktivitas
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ImtiyazKhaldaAkifah&bg_color=F8FAFC&color=334155&line=6C7AE0&point=334155&area=true&area_color=C7D2FE&hide_border=true&radius=16" width="100%" alt="activity graph" />
+<img src="https://ghchart.rshah.org/6C7AE0/ImtiyazKhaldaAkifah" width="95%" alt="contribution chart" />
 
 </div>
 
@@ -88,7 +109,7 @@ Halo, aku **Imtiyaz Khalda Akifah** 🌿
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 **🌐 Nama Project Web**
 Deskripsi singkat: apa yang dibuat dan masalah apa yang dipecahkan.
@@ -96,7 +117,7 @@ Deskripsi singkat: apa yang dibuat dan masalah apa yang dipecahkan.
 [Lihat repo →](https://github.com/ImtiyazKhaldaAkifah/nama-repo-web)
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 **📱 Nama Project Android**
 Deskripsi singkat: apa yang dibuat dan masalah apa yang dipecahkan.
@@ -120,6 +141,8 @@ Deskripsi singkat: apa yang dibuat dan masalah apa yang dipecahkan.
 
 <br/><br/>
 
-<sub>Follow aku di sini, nanti aku follback ya 🤍</sub>
+<a href="https://github.com/ImtiyazKhaldaAkifah?tab=followers">
+  <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=500&size=15&duration=3000&pause=1500&color=94A3B8&center=true&vCenter=true&width=420&lines=Follow+aku+di+sini%2C+nanti+aku+follback+ya+%F0%9F%A4%8D;Terima+kasih+sudah+mampir+%F0%9F%8C%BF" alt="footer" />
+</a>
 
 </div>
