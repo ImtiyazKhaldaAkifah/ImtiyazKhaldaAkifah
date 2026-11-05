@@ -5,7 +5,7 @@
 
 <!-- Teks Animasi Mengetik -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=Tech+Enthusiast+%F0%9F%92%96;Mahasiswa+TI+%26+AS+LPTSI+UNIDA+Gontor" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=Tech+Enthusiast+%F0%9F%92%96;Mahasiswa+TI+%26+Staff+LPTSI+UNIDA+Gontor" alt="Typing SVG"/>
 </div>
 
 <br/>
@@ -39,10 +39,23 @@
 <!-- Sosial Media -->
 ## 🔗 Terhubung dengan Saya
 <div align="center">
-  <a href="https://github.com/ImtiyazKhaldaAkifah"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://www.instagram.com/imtiyazakfh/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="mailto:aldakaliyak@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="[https://linkedin.com/in/imtiyaz-khalda-akifah-b64082385](https://www.linkedin.com/in/imtiyaz-khalda-akifah-b64082385/)"><img src="[https://img.shields.io/badge/LinkedIn-0A66C2?](https://www.linkedin.com/in/imtiyaz-khalda-akifah-b64082385/)style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <!-- Tombol GitHub diubah jadi warna Abu-abu (555555) -->
+  <a href="https://github.com/ImtiyazKhaldaAkifah">
+    <img src="https://img.shields.io/badge/GitHub-555555?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  
+  <a href="https://www.instagram.com/imtiyazakfh/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  
+  <a href="mailto:aldakaliyak@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  
+  <!-- Tombol LinkedIn di paling kanan, link sudah dibersihkan -->
+  <a href="https://www.linkedin.com/in/imtiyaz-khalda-akifah-b64082385/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 </div>
 
 <br/>
