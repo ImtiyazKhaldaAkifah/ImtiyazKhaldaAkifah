@@ -1,11 +1,17 @@
 <div align="center">
 
+<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" width="42" alt="👋" />
+<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2728/512.gif" width="42" alt="✨" />
+<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f431/512.gif" width="42" alt="🐱" />
+<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2728/512.gif" width="42" alt="✨" />
+<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4bb/512.gif" width="42" alt="💻" />
+
 <a href="https://github.com/ImtiyazKhaldaAkifah">
   <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=700&size=38&duration=3000&pause=100000&color=818CF8&center=true&vCenter=true&width=700&height=70&lines=Imtiyaz+Khalda+Akifah" alt="Imtiyaz Khalda Akifah" />
 </a>
 
 <a href="https://github.com/ImtiyazKhaldaAkifah">
-  <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=19&duration=3500&pause=1200&color=94A3B8&center=true&vCenter=true&width=620&lines=Mahasiswi+Teknik+Informatika;Web+%26+Android+Developer;Staff+LPTSI+%40+UNIDA+Gontor;Flutter+%C2%B7+Kotlin+%C2%B7+Svelte+%C2%B7+TypeScript;Open+to+internship+%26+collaboration" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=19&duration=3500&pause=1200&color=94A3B8&center=true&vCenter=true&width=640&lines=Mahasiswi+Teknik+Informatika+%F0%9F%8E%93;Web+%26+Android+Developer+%F0%9F%93%B1;Staff+LPTSI+%40+UNIDA+Gontor+%F0%9F%8F%AB;Flutter+%C2%B7+Kotlin+%C2%B7+Svelte+%C2%B7+TypeScript+%E2%9C%A8;Open+to+internship+%26+collaboration+%F0%9F%A4%9D" alt="typing" />
 </a>
 
 <br/><br/>
@@ -26,41 +32,6 @@ Halo, aku **Imtiyaz Khalda Akifah** 🌿
 - 💻 Fokus di **web development** dan **android development**
 - 🌱 Lagi terus belajar dan eksplor teknologi baru
 - 🤝 Terbuka buat **magang**, kolaborasi, dan diskusi
-
-<br/>
-
-## ✨ &nbsp;Highlight
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**🔭 Lagi dikerjain**
-Pengembangan aplikasi web dan android untuk kebutuhan kampus & project pribadi.
-
-</td>
-<td width="50%" valign="top">
-
-**🌱 Lagi dipelajari**
-TypeScript, Svelte, dan arsitektur aplikasi Flutter yang lebih rapi.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**💬 Tanya aku soal**
-Flutter, Dart, Kotlin, HTML/CSS, dan MongoDB.
-
-</td>
-<td width="50%" valign="top">
-
-**⚡ Cara kerja**
-Rapi, suka eksplor, dan senang belajar dari proyek nyata.
-
-</td>
-</tr>
-</table>
 
 <br/>
 
@@ -95,38 +66,15 @@ Rapi, suka eksplor, dan senang belajar dari proyek nyata.
 
 <br/>
 
-## 📈 &nbsp;Aktivitas kontribusi
-
-<div align="center">
-
-<img src="https://ghchart.rshah.org/6C7AE0/ImtiyazKhaldaAkifah" width="95%" alt="contribution chart" />
-
-</div>
-
-<br/>
-
 ## 🚀 &nbsp;Project pilihan
-
-<table>
-<tr>
-<td width="50%" valign="top">
 
 **🌐 Nama Project Web**
 Deskripsi singkat: apa yang dibuat dan masalah apa yang dipecahkan.
-`Svelte` `TypeScript` `MongoDB`
-[Lihat repo →](https://github.com/ImtiyazKhaldaAkifah/nama-repo-web)
-
-</td>
-<td width="50%" valign="top">
+`Svelte` `TypeScript` `MongoDB` · [Lihat repo →](https://github.com/ImtiyazKhaldaAkifah/nama-repo-web)
 
 **📱 Nama Project Android**
 Deskripsi singkat: apa yang dibuat dan masalah apa yang dipecahkan.
-`Flutter` `Dart` `Kotlin`
-[Lihat repo →](https://github.com/ImtiyazKhaldaAkifah/nama-repo-android)
-
-</td>
-</tr>
-</table>
+`Flutter` `Dart` `Kotlin` · [Lihat repo →](https://github.com/ImtiyazKhaldaAkifah/nama-repo-android)
 
 <br/>
 
@@ -142,7 +90,15 @@ Deskripsi singkat: apa yang dibuat dan masalah apa yang dipecahkan.
 <br/><br/>
 
 <a href="https://github.com/ImtiyazKhaldaAkifah?tab=followers">
-  <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=500&size=15&duration=3000&pause=1500&color=94A3B8&center=true&vCenter=true&width=420&lines=Follow+aku+di+sini%2C+nanti+aku+follback+ya+%F0%9F%A4%8D;Terima+kasih+sudah+mampir+%F0%9F%8C%BF" alt="footer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=500&size=16&duration=3000&pause=1500&color=94A3B8&center=true&vCenter=true&width=460&lines=Follow+aku+di+sini%2C+nanti+aku+follback+ya+%F0%9F%A4%8D;Terima+kasih+sudah+mampir+%F0%9F%8C%BF;Sampai+jumpa+di+project+berikutnya+%F0%9F%9A%80" alt="footer" />
 </a>
+
+<br/>
+
+<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f331/512.gif" width="38" alt="🌱" />
+<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2615/512.gif" width="38" alt="☕" />
+<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f499/512.gif" width="38" alt="💙" />
+<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" width="38" alt="🚀" />
+<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f431/512.gif" width="38" alt="🐱" />
 
 </div>
