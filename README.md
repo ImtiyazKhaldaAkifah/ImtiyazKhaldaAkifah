@@ -12,7 +12,7 @@
 
 <!-- Bagian Tentang Saya -->
 ## 🎀 Tentang Saya
-- 🎓 Mahasiswa **Teknik Informatika** & **Asisten (AS) LPTSI UNIDA Gontor**
+- 🎓 Mahasiswa **Teknik Informatika** & **Staff LPTSI UNIDA Gontor**
 - 💻 Sangat tertarik dengan dunia pengembangan aplikasi (Mobile & Web)
 - 📱 Sedang mendalami framework **Flutter** dan bahasa **Dart**
 - 🌱 Selalu antusias untuk belajar hal baru setiap hari
