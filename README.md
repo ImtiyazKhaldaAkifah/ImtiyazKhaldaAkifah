@@ -1,12 +1,12 @@
 <!-- Banner Bergelombang Gemoy (Pink ke Lavender) -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFC0CB,100:E6E6FA&height=220&section=header&text=Hai,%20Aku%20Imtiyaz!&fontSize=42&fontColor=FF1493&animation=twinkling&fontAlignY=35&desc=Tech%20Enthusiast%20%7C%20Mobile%20%26%20Web%20Developer&descAlignY=55&descSize=18&v=3" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFC0CB,100:E6E6FA&height=220&section=header&text=Hai,%20Aku%20Imtiyaz!&fontSize=42&fontColor=FF1493&animation=twinkling&fontAlignY=35&desc=Tech%20Enthusiast%20%7C%20Mobile%20%26%20Web%20Developer&descAlignY=55&descSize=18&v=4" width="100%"/>
 </div>
 
-<!-- Teks Animasi Mengetik (Typing SVG) -->
+<!-- Teks Animasi Mengetik (Typing SVG) - Menggunakan URL alternatif yang lebih stabil -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=FF69B4&center=true&vCenter=true&width=650&lines=Hai,+selamat+datang+di+profil+saya!+✨;Saya+seorang+Tech+Enthusiast+💖;Suka+ngoding+Flutter+%26+Dart+🌸;Ayo+berteman+dan+berkolaborasi!+🚀&v=3" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=FF69B4&center=true&vCenter=true&width=650&lines=Hai,+selamat+datang+di+profil+saya!+✨;Saya+seorang+Tech+Enthusiast+💖;Suka+ngoding+Flutter+%26+Dart+🌸;Ayo+berteman+dan+berkolaborasi!+🚀&v=4" alt="Typing SVG"/>
   </a>
 </div>
 
@@ -24,16 +24,16 @@
 <!-- Tech Stack Ikon -->
 ## 🛠️ Tech Stack
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,git,github,vscode,flutter,dart&theme=light&v=3" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,git,github,vscode,flutter,dart&theme=light&v=4" />
 </div>
 
 <br/>
 
-<!-- Kartu Statistik GitHub (Tema Bubblegum Pink) -->
+<!-- Kartu Statistik GitHub (Menggunakan domain alternatif shion.dev yang lebih stabil) -->
 ## 📊 Statistik GitHub
 <div align="center">
-  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=ImtiyazKhaldaAkifah&show_icons=true&theme=bubblegum&hide_border=true&cache_seconds=1800&v=3" />
-  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImtiyazKhaldaAkifah&layout=compact&theme=bubblegum&hide_border=true&cache_seconds=1800&v=3" />
+  <img height="160px" src="https://github-readme-stats.shion.dev/api?username=ImtiyazKhaldaAkifah&show_icons=true&theme=bubblegum&hide_border=true&cache_seconds=1800&v=4" />
+  <img height="160px" src="https://github-readme-stats.shion.dev/api/top-langs/?username=ImtiyazKhaldaAkifah&layout=compact&theme=bubblegum&hide_border=true&cache_seconds=1800&v=4" />
 </div>
 <p align="center"><i>*(Jika gambar statistik masih rusak di preview, tenang saja. Setelah di-commit/simpan, gambarnya akan muncul di profil utama).*</i></p>
 
@@ -57,7 +57,7 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 
-  <!-- LinkedIn (Hapus baris ini kalau tidak dipakai) -->
+  <!-- LinkedIn -->
   <a href="https://linkedin.com/in/imtiyaz-khalda-akifah-b64082385">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
@@ -67,5 +67,5 @@
 
 <!-- Ucapan Terima Kasih / Pengunjung -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ImtiyazKhaldaAkifah&label=Profile%20views&color=FFB6C1&style=flat&v=3" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=ImtiyazKhaldaAkifah&label=Profile%20views&color=FFB6C1&style=flat&v=4" alt="Profile views" />
 </div>
