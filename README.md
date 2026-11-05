@@ -12,7 +12,7 @@
 
 <!-- Bagian Tentang Saya (Estetik) -->
 ## 🤍 Sedikit Tentang Saya
-- 🎓 Menempuh pendidikan **Teknik Informatika** & mengabdi sebagai **Staff LPTSI UNIDA Gontor**.
+- 🎓 Menempuh studi **Teknik Informatika** & berproses di **LPTSI UNIDA Gontor**.
 - ✨ Merangkai ide menjadi baris kode untuk pengalaman *Mobile* & *Web* yang bermakna.
 - 🌿 Sedang menjalin kedekatan dengan **Flutter** dan **Dart**.
 - ☕ Percaya bahwa belajar adalah proses seumur hidup, satu *commit* setiap harinya.
@@ -30,8 +30,8 @@
 <!-- Statistik GitHub (Warna Pastel Lembut) -->
 ## 📊 Little Footprints
 <div align="center">
-  <img src="https://img.shields.io/github/followers/ImtiyazKhaldaAkifah?label=Followers&style=for-the-badge&color=CDB4DB&cache_bust=1" />
-  <img src="https://img.shields.io/github/stars/ImtiyazKhaldaAkifah?label=Stars&style=for-the-badge&color=BDE0FE&cache_bust=1" />
+  <img src="https://img.shields.io/github/followers/ImtiyazKhaldaAkifah?label=Followers&style=for-the-badge&color=CDB4DB&cache_bust=2" />
+  <img src="https://img.shields.io/github/stars/ImtiyazKhaldaAkifah?label=Stars&style=for-the-badge&color=BDE0FE&cache_bust=2" />
 </div>
 
 <br/>
