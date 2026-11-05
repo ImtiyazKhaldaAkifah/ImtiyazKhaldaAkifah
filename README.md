@@ -1,17 +1,16 @@
 <div align="center">
 
-<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" width="42" alt="👋" />
-<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2728/512.gif" width="42" alt="✨" />
-<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f431/512.gif" width="42" alt="🐱" />
-<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2728/512.gif" width="42" alt="✨" />
-<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4bb/512.gif" width="42" alt="💻" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:6C7AE0,100:334155&text=Imtiyaz%20Khalda%20Akifah&fontColor=ffffff&fontSize=42&fontAlignY=38&animation=fadeIn&desc=Informatics%20Student%20%7C%20Web%20and%20Android%20Developer&descColor=E2E8F0&descSize=17&descAlignY=60&section=header" width="100%" alt="Imtiyaz Khalda Akifah" />
+
+<p align="center">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" width="40" height="40" alt="👋" />&nbsp;&nbsp;
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4bb/512.gif" width="40" height="40" alt="💻" />&nbsp;&nbsp;
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" width="40" height="40" alt="🚀" />&nbsp;&nbsp;
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f431/512.gif" width="40" height="40" alt="🐱" />
+</p>
 
 <a href="https://github.com/ImtiyazKhaldaAkifah">
-  <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=700&size=38&duration=3000&pause=100000&color=818CF8&center=true&vCenter=true&width=700&height=70&lines=Imtiyaz+Khalda+Akifah" alt="Imtiyaz Khalda Akifah" />
-</a>
-
-<a href="https://github.com/ImtiyazKhaldaAkifah">
-  <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=19&duration=3500&pause=1200&color=94A3B8&center=true&vCenter=true&width=640&lines=Mahasiswi+Teknik+Informatika+%F0%9F%8E%93;Web+%26+Android+Developer+%F0%9F%93%B1;Staff+LPTSI+%40+UNIDA+Gontor+%F0%9F%8F%AB;Flutter+%C2%B7+Kotlin+%C2%B7+Svelte+%C2%B7+TypeScript+%E2%9C%A8;Open+to+internship+%26+collaboration+%F0%9F%A4%9D" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=19&duration=3500&pause=1200&color=818CF8&center=true&vCenter=true&width=700&lines=Mahasiswi+Teknik+Informatika;Web+%26+Android+Developer;Staff+LPTSI+di+UNIDA+Gontor;Flutter+%C2%B7+Kotlin+%C2%B7+Svelte+%C2%B7+TypeScript;Open+to+internship+%26+collaboration" alt="typing" />
 </a>
 
 <br/><br/>
@@ -42,6 +41,7 @@ Halo, aku **Imtiyaz Khalda Akifah** 🌿
 **Web**<br/>
 <img src="https://img.shields.io/badge/HTML5-334155?style=for-the-badge&logo=html5&logoColor=E34F26" />
 <img src="https://img.shields.io/badge/CSS3-334155?style=for-the-badge&logo=css3&logoColor=1572B6" />
+<img src="https://img.shields.io/badge/Vanilla%20CSS-334155?style=for-the-badge&logo=css&logoColor=663399" />
 <img src="https://img.shields.io/badge/JavaScript-334155?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 <img src="https://img.shields.io/badge/TypeScript-334155?style=for-the-badge&logo=typescript&logoColor=3178C6" />
 <img src="https://img.shields.io/badge/Svelte-334155?style=for-the-badge&logo=svelte&logoColor=FF3E00" />
@@ -56,25 +56,20 @@ Halo, aku **Imtiyaz Khalda Akifah** 🌿
 
 <br/>
 
-**Database & Tools**<br/>
+**Database & Backend**<br/>
 <img src="https://img.shields.io/badge/MongoDB-334155?style=for-the-badge&logo=mongodb&logoColor=47A248" />
-<img src="https://img.shields.io/badge/Git-334155?style=for-the-badge&logo=git&logoColor=F05032" />
-<img src="https://img.shields.io/badge/GitHub-334155?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/VS%20Code-334155?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" />
-
-</div>
+<img src="https://img.shields.io/badge/Supabase-334155?style=for-the-badge&logo=supabase&logoColor=3FCF8E" />
+<img src="https://img.shields.io/badge/Firebase-334155?style=for-the-badge&logo=firebase&logoColor=FFCA28" />
 
 <br/>
 
-## 🚀 &nbsp;Project pilihan
+**Tools**<br/>
+<img src="https://img.shields.io/badge/Android%20Studio-334155?style=for-the-badge&logo=androidstudio&logoColor=3DDC84" />
+<img src="https://img.shields.io/badge/VS%20Code-334155?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" />
+<img src="https://img.shields.io/badge/Git-334155?style=for-the-badge&logo=git&logoColor=F05032" />
+<img src="https://img.shields.io/badge/GitHub-334155?style=for-the-badge&logo=github&logoColor=white" />
 
-**🌐 Nama Project Web**
-Deskripsi singkat: apa yang dibuat dan masalah apa yang dipecahkan.
-`Svelte` `TypeScript` `MongoDB` · [Lihat repo →](https://github.com/ImtiyazKhaldaAkifah/nama-repo-web)
-
-**📱 Nama Project Android**
-Deskripsi singkat: apa yang dibuat dan masalah apa yang dipecahkan.
-`Flutter` `Dart` `Kotlin` · [Lihat repo →](https://github.com/ImtiyazKhaldaAkifah/nama-repo-android)
+</div>
 
 <br/>
 
@@ -82,23 +77,23 @@ Deskripsi singkat: apa yang dibuat dan masalah apa yang dipecahkan.
 
 <div align="center">
 
-<a href="https://instagram.com/USERNAME_IG"><img src="https://img.shields.io/badge/Instagram-334155?style=for-the-badge&logo=instagram&logoColor=E4405F" /></a>
-<a href="https://linkedin.com/in/USERNAME_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-334155?style=for-the-badge&logo=linkedin&logoColor=0A66C2" /></a>
-<a href="https://tiktok.com/@USERNAME_TIKTOK"><img src="https://img.shields.io/badge/TikTok-334155?style=for-the-badge&logo=tiktok&logoColor=white" /></a>
-<a href="mailto:emailkamu@gmail.com"><img src="https://img.shields.io/badge/Email-334155?style=for-the-badge&logo=gmail&logoColor=EA4335" /></a>
+<a href="https://www.instagram.com/imtiyazakfh/"><img src="https://img.shields.io/badge/Instagram-334155?style=for-the-badge&logo=instagram&logoColor=E4405F" /></a>
+<a href="https://www.linkedin.com/in/imtiyaz-khalda-akifah-b64082385/"><img src="https://img.shields.io/badge/LinkedIn-334155?style=for-the-badge&logo=linkedin&logoColor=0A66C2" /></a>
+<a href="mailto:aldakaliyak@gmail.com"><img src="https://img.shields.io/badge/Email-334155?style=for-the-badge&logo=gmail&logoColor=EA4335" /></a>
 
 <br/><br/>
 
 <a href="https://github.com/ImtiyazKhaldaAkifah?tab=followers">
-  <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=500&size=16&duration=3000&pause=1500&color=94A3B8&center=true&vCenter=true&width=460&lines=Follow+aku+di+sini%2C+nanti+aku+follback+ya+%F0%9F%A4%8D;Terima+kasih+sudah+mampir+%F0%9F%8C%BF;Sampai+jumpa+di+project+berikutnya+%F0%9F%9A%80" alt="footer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=500&size=16&duration=3000&pause=1500&color=94A3B8&center=true&vCenter=true&width=480&lines=Follow+aku+di+sini%2C+nanti+aku+follback+ya;Terima+kasih+sudah+mampir;Sampai+jumpa+di+project+berikutnya" alt="footer" />
 </a>
 
-<br/>
+<p align="center">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f331/512.gif" width="36" height="36" alt="🌱" />&nbsp;&nbsp;
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2615/512.gif" width="36" height="36" alt="☕" />&nbsp;&nbsp;
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f499/512.gif" width="36" height="36" alt="💙" />&nbsp;&nbsp;
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f431/512.gif" width="36" height="36" alt="🐱" />
+</p>
 
-<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f331/512.gif" width="38" alt="🌱" />
-<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2615/512.gif" width="38" alt="☕" />
-<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f499/512.gif" width="38" alt="💙" />
-<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" width="38" alt="🚀" />
-<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f431/512.gif" width="38" alt="🐱" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:334155,100:6C7AE0&section=footer" width="100%" alt="footer wave" />
 
 </div>
